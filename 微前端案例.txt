@@ -1,0 +1,2 @@
+1.首先需要在每个项目中npm  install安装依赖
+2.其中只有vue的子应用npm run dev启动，其余都用npm start启动
